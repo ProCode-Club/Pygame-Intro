@@ -1,0 +1,6 @@
+# Ignore file for git push reasons.
+Scripts/
+__pycache__/
+Lib/
+Include/
+pyvenv.cfg
